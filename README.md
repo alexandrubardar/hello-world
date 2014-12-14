@@ -12,7 +12,8 @@ public class ConexiuneBazaDeDate
 {
 
 	Connection c;
-	mazga.system.out.println("hahaha");
+	//mazga.system.out.println("hahaha");
     
 
 }
+
